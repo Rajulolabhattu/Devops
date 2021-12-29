@@ -23,7 +23,7 @@ Possibilites
     example: chef
 
 ### Push and Pull configuration management
- ![Preview](.\ansible2.png)
+ ![Preview](ansible2.png)
 * Basic things need to run the java or Dotnet applications
 -----
 java application
@@ -40,7 +40,7 @@ dot net appplication
 Ansible is a push type configuration management tool
 it will assigne the work to the nodes
 * Architecture of the Ansible
-![Preview](.\ansible1.png)
+![Preview](ansible1.png)
 
 ### Ansible User Configuration
 * In this series, lets create a user called as admin.
