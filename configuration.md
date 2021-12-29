@@ -25,7 +25,7 @@ Possibilites
 ### Push and Pull configuration management
  ![Preview](ansible2.png)
 * Basic things need to run the java or Dotnet applications
------
+````
 java application
 * server 
 * tomact 
@@ -34,7 +34,7 @@ java application
 dot net appplication
 * server
 * IIS serrvice management
-------
+````
 
 ### Ansible
 Ansible is a push type configuration management tool
